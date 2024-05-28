@@ -1,0 +1,7 @@
+3D Printing Log
+
+January 1, 2024
+NOTES: Had difficulty getting my reel side plates (open weave) to stick, it’s cold in my office today, so I increased the bed temp to 65°C for the first layer and then back to 55° for the rest of the print.
+
+January 2, 2034
+NOTES: New filament - Proto-Pasta matte black HTPLA. I really like this stuff, beautiful matte black finish and prints nicely

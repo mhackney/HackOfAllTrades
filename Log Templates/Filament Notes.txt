@@ -1,0 +1,64 @@
+Filament Notes
+
+ABS
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes: 
+
+
+ASA
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
+
+Nylon
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
+
+PC
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
+
+PETG
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
+PLA
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
+
+PLA Composites
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes: 
+
+
+TPU
+Date:
+Brand:
+Color:
+Manufacturer Recommendations:
+Notes:
+
